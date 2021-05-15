@@ -1,9 +1,5 @@
 # Final-Project---Embedded-System-
 
-The ESP32-CAM is a very small camera module with the ESP32-S chip that costs approximately $10. 
-Besides the OV2640 camera, and several GPIOs to connect peripherals, it also features a microSD 
-card slot that can be useful to store images taken with the camera or to store files to serve to clients.
+The ESP32-CAM is a full-featured microcontroller that also has an integrated video camera and microSD card socket.  It’s inexpensive and easy to use, and is perfect for IoT devices requiring a camera with advanced functions like image tracking and recognition.
 
-ESP32-CAM can be widely used in various IoT applications. It is suitable for home smart devices, industrial 
-wireless control, wireless monitoring, QR wireless identification, wireless positioning system signals and 
-other IoT applications. It is an ideal solution for IoT applications.
+The ESP32-CAM board has no USB port, so you can’t just connect it up to your computer and start loading programs.Instead you will need to add an external FTDI adapter.
